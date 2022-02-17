@@ -2,7 +2,7 @@
 
 Estudante de Pós Graduação em Engenharia de Software, entusiasta da tecnologia da informação, atualmente trabalho com implementações  de SEO em sites de varejo. Profissional proativo, com experiência em SEO para e-commerce, blogs e mídias sociais. Uso as principais técnicas e ferramentas para SEO on page e off page do mercado. Facilidade em aprender ferramentas e processos complexos. 
 
-## Olá eu sou Fabrício, analista de SEO!
+## SEO Analyst - Overview !
 <div align="center">
   <a href="https://github.com/fabricio-hunt">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabricio-hunt&show_icons=false&theme=dracula&include_all_commits=true&count_private=true"/>
