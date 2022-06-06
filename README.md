@@ -1,6 +1,6 @@
 ## Olá sou o Fabrício e esse é o meu Github!
 
-Estudante de Pós Graduação em Engenharia de Software, entusiasta da tecnologia da informação, atualmente trabalho com implementações  de SEO em sites de varejo. Profissional proativo, com experiência em SEO para e-commerce, blogs e mídias sociais. Uso as principais técnicas e ferramentas para SEO on page e off page do mercado. Facilidade em aprender ferramentas e processos complexos. 
+Estudante de Pós Graduação em Engenharia de Software, Marketing e Business Intelligence entusiasta da tecnologia da informação, atualmente trabalho com implementações  de SEO em sites de varejo. Profissional proativo, com experiência em SEO para e-commerce, blogs e mídias sociais. Uso as principais técnicas e ferramentas para SEO on page e off page do mercado. Facilidade em aprender ferramentas e processos complexos. 
 
 ## SEO Analyst - Overview !
 <div align="center">
