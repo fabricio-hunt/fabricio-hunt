@@ -1,8 +1,8 @@
 ## Olá sou o Fabrício e esse é o meu Github!
 
-Pós Graduado em Engenharia de Software, Marketing e Business Intelligence entusiasta da tecnologia da informação, atualmente trabalho com implementações  de SEO em sites de varejo. Profissional proativo, com experiência em SEO para e-commerce, blogs e mídias sociais. Uso as principais técnicas e ferramentas para SEO on page e off page do mercado. Facilidade em aprender ferramentas e processos complexos. 
+Sou graduado em Sistemas de Informação e tenho especializações em Tecnologia e Marketing. Atualmente, trabalho com SEO em sites de varejo e também trabalho com projetos de Gerenciamento de Projetos e Produtos Digitais. Nesse repositório, compartilho alguns projetos simples de programação que uso no meu dia a dia.
 
-## SEO Analyst - Overview !
+##Meus Projetos
 <div align="center">
   <a href="https://github.com/fabricio-hunt">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabricio-hunt&show_icons=false&theme=dracula&include_all_commits=true&count_private=true"/>
