@@ -2,7 +2,7 @@
 
 Sou graduado em Sistemas de Informação e tenho especializações em Tecnologia e Marketing. Atualmente, trabalho com SEO em sites de varejo e também trabalho com projetos de Gerenciamento de Projetos e Produtos Digitais. Nesse repositório, compartilho alguns projetos simples de programação que uso no meu dia a dia.
 
-##Meus Projetos
+## Meus Projetos
 <div align="center">
   <a href="https://github.com/fabricio-hunt">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabricio-hunt&show_icons=false&theme=dracula&include_all_commits=true&count_private=true"/>
