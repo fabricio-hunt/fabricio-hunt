@@ -1,6 +1,6 @@
 ## Olá sou o Fabrício e esse é o meu Github!
 
-Sou graduado em Sistemas de Informação e tenho especializações em Tecnologia e Marketing. Atualmente, trabalho com SEO em sites de varejo e também trabalho com Gerenciamento de Projetos e Produtos Digitais. Nesse repositório, compartilho alguns projetos simples de programação que uso no meu dia a dia.
+Sou graduado em Sistemas de Informação e tenho especializações em Tecnologia e Marketing. Atualmente, trabalho com SEO em sites de varejo e também com Gerenciamento de Projetos e Produtos Digitais. Nesse repositório, compartilho alguns projetos simples de programação que uso no meu dia a dia.
 
 ## Meus Projetos
 <div align="center">
