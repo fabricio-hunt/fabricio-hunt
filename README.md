@@ -1,47 +1,54 @@
-
 # 👋 Hello, I'm Fabricio! Welcome to my GitHub!
 
-I'm a **Systems Information graduate** and currently an **Engineering student specializing in Computing and Data Analytics**. My expertise lies in **SEO, Data Engineering, and Digital Product Management**, blending technical skills with strategic insights to drive data-driven decision-making.
+I'm a **Systems Information graduate** and currently a **Computer Engineering student**. I have over **4 years of experience** working at the intersection of **Technical SEO** and **Site Reliability Engineering (SRE)**, focusing on **high-traffic e-commerce platforms**, especially in **retail and pharmaceutical sectors**.
 
-This repository showcases **practical coding projects, data analytics experiments, and automation tools** that I use in my daily work. My focus is on **problem-solving, optimization, and scalable technology solutions**.
-
----
-
-## 🚀 **Technical Skills**
-- **Programming & Data Analytics**: Python, JavaScript, SQL, R, Apache Spark  
-- **Web Development**: HTML, CSS, JavaScript (Bootstrap)  
-- **SEO & Growth Analytics**: Google Analytics, SEMrush, Screaming Frog  
-- **Development & Infrastructure**: Databricks, VS Code, Git, CI/CD  
-- **Project & Product Management**: Agile, Scrum, Lean, Data-Driven Decision Making  
+My mission is to **transform complex SEO challenges into scalable engineering solutions**, using **advanced automation**, **Artificial Intelligence (AI)**, and **Machine Learning (ML)** to deliver **predictive analytics**, **performance engineering**, and **sustainable, measurable optimizations**.
 
 ---
 
-## 📊 **My Projects**
-<div align="center">
-  <a href="https://github.com/fabricio-hunt">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabricio-hunt&show_icons=false&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabricio-hunt&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+## 🚀 Technical Focus Areas
+
+### 🔍 Technical SEO, Web Quality & SRE
+- In-depth **log analysis** and **technical audits** for crawl budget optimization, anomaly detection, and security.
+- Advanced inspection of **HTTP headers**, **status codes** (4xx/5xx), and **complex rendering behavior**.
+
+### ⚡ Core Web Vitals & Web Performance
+- Optimization of **LCP, CLS, INP (FID/TBT)** using:
+  - **Critical Rendering Path strategies**
+  - **Asset optimization** (images, JS/CSS)
+  - **Code splitting**, **preloading/prefetching**
+  - **Hybrid monitoring** (RUM and synthetic tests)
+
+### 🛠️ Automation & Intelligent Scripting
+- Development of automation tools using:
+  - **Python** (Pandas, Scikit-learn, Requests, BeautifulSoup)
+  - **Google Apps Script**
+  - **APIs**: Search Console, GA4, Indexing API, BigQuery
+- Solutions for:
+  - **Continuous audits**
+  - **Anomaly detection**
+  - **Search intent classification**
+  - **Keyword clustering**
+  - **Automated insights generation**
+
+### 🧩 SRE Applied to SEO
+- Defining and monitoring **SLIs/SLOs** for SEO-critical journeys.
+- Building **availability, indexability, and performance dashboards**.
+- Hands-on with **GCP**, with continuous learning in observability tools like **Datadog, Prometheus, and Grafana**.
+
+### 🧰 Key Tools
+- **Screaming Frog**, **SEMrush**, **Ahrefs**, **Google Search Console (API)**, **GA4**, **BigQuery**, **Lighthouse**, **GTmetrix**, **PageSpeed Insights**, **WebPageTest**.
+
+### 🏗️ Software Engineering & SEO
+- **SEO integration in CI/CD pipelines** using **GitHub Actions** and **Jenkins**.
+- **Unit and integration testing for SEO**
+- **Pre-deployment validations**
+- **Version control with Git**
+- **Programmatic SEO and accessibility testing**
 
 ---
 
-## 🛠 **Tech Stack**
-<div style="display: inline_block"><br>
-  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
-  <img align="center" alt="SEO" height="30" width="40" src="https://img.icons8.com/external-xnimrodx-lineal-color-xnimrodx/64/000000/external-seo-seo-xnimrodx-lineal-color-xnimrodx.png"/>
-</div>
+## 📊 GitHub Stats
 
----
-
-## 🔗 **Let's Connect!**
-<a href="https://www.linkedin.com/in/fabricio-barauna93/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-</a>
-
----
-
-Essa versão destaca seu perfil técnico, dando uma visão clara das suas habilidades e especializações. O que acha? 🚀
+![Fabricio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fabricio-hunt&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fabricio-h)
