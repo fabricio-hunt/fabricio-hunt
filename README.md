@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Fabricio! Welcome to my GitHub!
 
-I'm a **Systems Information graduate** and currently a **Computer Engineering student**. I have over **4 years of experience** working at the intersection of **Technical SEO** and **Site Reliability Engineering (SRE)**, focusing on **high-traffic e-commerce platforms**, especially in **retail and pharmaceutical sectors**.
+I'm a **Systems Information graduate** and currently a **Computer Engineering student**. I have over **5 years of experience** working at the intersection of **Technical SEO** and **Site Reliability Engineering (SRE)**, focusing on **high-traffic e-commerce platforms**, especially in **retail and pharmaceutical sectors**.
 
 My mission is to **transform complex SEO challenges into scalable engineering solutions**, using **advanced automation**, **Artificial Intelligence (AI)**, and **Machine Learning (ML)** to deliver **predictive analytics**, **performance engineering**, and **sustainable, measurable optimizations**.
 
