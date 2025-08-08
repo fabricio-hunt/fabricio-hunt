@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Fabricio! Welcome to my GitHub
 
-I'm a **Systems Information graduate** and currently pursuing a **Bachelor’s degree in Industrial Engineering (Brazilian equivalent of Production Engineering)**. I bring over **5 years of experience** operating at the intersection of **Technical SEO**, **Data Engineering**, and **Digital Product Strategy**, primarily within **large-scale e-commerce environments** in the **retail and pharmaceutical industries**.
+I'm a **Systems Information graduate** and currently pursuing a **Bachelor’s degree in Bachelor's Degree in Computer Engineering**. I bring over **5 years of experience** operating at the intersection of **Technical SEO**, **Data Engineering**, and **Digital Product Strategy**, primarily within **large-scale e-commerce environments** in the **retail and pharmaceutical industries**.
 
 My mission is to **bridge technical SEO and business intelligence**, using **Python**, **SQL**, **Databricks**, and **automation pipelines** to generate **actionable insights**, support **product decision-making**, and drive **growth through search performance** and **data-backed experiments**.
 
