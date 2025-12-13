@@ -23,8 +23,8 @@
 <h3>🧰 Tools & Stack</h3>
 <ul>
   <li><strong>Python</strong> (Pandas, NumPy, Matplotlib)</li>
-  <li><strong>SQL</strong> (SQLite, PostgreSQL, MongoDB)</li>
-  <li>Databricks, Airflow, Looker Studio, Google Analytics 4</li>
+  <li><strong>SQL</strong> (SQLite, PostgreSQL)</li>
+  <li>Databricks, Looker Studio, Google Analytics 4</li>
 </ul>
 
 <h3>⚙️ DevOps for Data Infrastructure</h3>
