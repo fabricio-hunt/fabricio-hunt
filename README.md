@@ -1,5 +1,5 @@
 <h1>Fabricio Baraúna</h1>
-<h3>Focused on Software Engineering (Backend/Python) and DevOps | Technical SEO Specialist</h3>
+<h3> Technical SEO Specialist | Focused on Software Engineering (Backend/Python) and DevOps </h3>
 
 <p>
   Experienced professional in Technical SEO and Digital Product Operations with a background in Information Systems and currently pursuing a Bachelor's degree in Software Engineering.</strong>.
