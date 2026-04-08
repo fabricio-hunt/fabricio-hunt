@@ -1,88 +1,136 @@
-<h1>Fabricio Baraúna</h1>
-<h3> Technical SEO Specialist | Focused on Software Engineering (Backend/Python) and DevOps </h3>
+<div align="center">
 
+# Fabricio Baraúna
+
+**Backend Engineer · DevOps Practitioner · Technical SEO Specialist**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-fabricio--barauna93-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabricio-barauna93/)
+[![Lattes](https://img.shields.io/badge/Lattes-CV-005A8E?style=flat-square)](http://lattes.cnpq.br/3020494210907887)
+[![Location](https://img.shields.io/badge/Location-Brazil-009C3B?style=flat-square&logo=googlemaps&logoColor=white)]()
+
+</div>
+
+---
+
+## About
+
+Software Engineering student (Information Systems background) with **5+ years** building and operating large-scale e-commerce platforms. I combine deep Technical SEO expertise with a growing engineering practice focused on **Python backend development**, **containerized infrastructure**, and **DevOps automation**.
+
+Currently channeling hands-on SEO systems thinking into building observable, scalable backend services — from API design through deployment pipelines to cloud infrastructure as code.
+
+> *I don't just write code — I engineer systems that are testable, reproducible, and production-ready.*
+
+---
+
+## Core Competencies
+
+| Domain | Skills |
+|---|---|
+| **Backend Engineering** | Python · FastAPI · Flask · SQLAlchemy · RESTful APIs · JWT Auth |
+| **DevOps & Infrastructure** | Docker · Docker Compose · GitHub Actions · CI/CD · Linux · Bash |
+| **Cloud & IaC** | AWS (EC2, S3, RDS, IAM) · Terraform · Infrastructure as Code |
+| **Data & Automation** | Pandas · Web Scraping · ETL Pipelines · Process Automation |
+| **Databases** | PostgreSQL · Query optimization · ORM patterns |
+| **Observability** *(in progress)* | Prometheus · Grafana · Structured Logging |
+| **Orchestration** *(in progress)* | Kubernetes · Helm · Celery · RabbitMQ · Redis |
+
+---
+
+## Technology Stack
+
+### Backend & Infrastructure
 <p>
-  Experienced professional in Technical SEO and Digital Product Operations with a background in Information Systems and currently pursuing a Bachelor's degree in Software Engineering.</strong>.
+  <img alt="Python" title="Python" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
+  <img alt="FastAPI" title="FastAPI" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />&nbsp;&nbsp;
+  <img alt="PostgreSQL" title="PostgreSQL" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />&nbsp;&nbsp;
+  <img alt="Docker" title="Docker" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />&nbsp;&nbsp;
+  <img alt="Linux" title="Linux" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />&nbsp;&nbsp;
+  <img alt="Bash" title="Bash" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />&nbsp;&nbsp;
+  <img alt="AWS" title="AWS" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />&nbsp;&nbsp;
+  <img alt="Terraform" title="Terraform" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
 </p>
 
+### Data & Tooling
 <p>
-  With over 5 years of experience optimizing large-scale e-commerce environments through <strong>Technical SEO</strong> and <strong>Data Analytics</strong>, I am now pivoting to <strong>Software Engineering</strong>. My focus is on building robust Backend systems with <strong>Python</strong> and implementing DevOps best practices, including automation, cloud infrastructure, and observability.
+  <img alt="Pandas" title="Pandas" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />&nbsp;&nbsp;
+  <img alt="Git" title="Git" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />&nbsp;&nbsp;
+  <img alt="HTML5" title="HTML5" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />&nbsp;&nbsp;
+  <img alt="JavaScript" title="JavaScript" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </p>
 
-<hr>
+---
 
-<h2>Technical Competencies & Research Focus</h2>
+## Featured Projects
 
-<table align="center" width="100%">
-  <tr>
-    <td align="left" width="50%" valign="top">
-      <h3>Current Technical Focus</h3>
-      <ul>
-        <li><strong>Backend Engineering:</strong> API development using Python (FastAPI/Flask) and ORMs (SQLAlchemy).</li>
-        <li><strong>Process Automation:</strong> Developing recurring scripts for SEO and data processing.</li>
-        <li><strong>Containerization:</strong> Application isolation with Docker and Docker Compose.</li>
-        <li><strong>System Administration:</strong> Linux internals, permissions, and shell scripting.</li>
-      </ul>
-    </td>
-    <td align="left" width="50%" valign="top">
-      <h3>Roadmap & Development</h3>
-      <ul>
-        <li><strong>Infrastructure as Code (IaC):</strong> Provisioning AWS environments with Terraform.</li>
-        <li><strong>Orchestration:</strong> Managing clusters with Kubernetes and Helm.</li>
-        <li><strong>Async Systems:</strong> Distributed task processing with Celery and RabbitMQ/Redis.</li>
-        <li><strong>Observability:</strong> Monitoring metrics and logs with Prometheus and Grafana.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+### 🔧 SEO Automation Pipeline
+> Python · Pandas · Requests · Cron
 
-<hr>
+Recurring audit system that crawls large e-commerce sitemaps, validates redirect chains, detects broken URLs, and outputs structured CSV/JSON reports. Reduced manual audit time by eliminating repetitive checklist work.
 
-<h2>Technology Stack</h2>
+- Automated sitemap validation and redirect-chain analysis
+- Modular pipeline design — each stage is independently testable
+- Scheduled execution via cron with structured log output
 
-<p><strong>Backend & Infrastructure:</strong></p>
-<p>
-  <img align="left" alt="Python" title="Python" width="40px" style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="left" alt="FastAPI" title="FastAPI" width="40px" style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
-  <img align="left" alt="PostgreSQL" title="PostgreSQL" width="40px" style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img align="left" alt="Linux" title="Linux" width="40px" style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img align="left" alt="Docker" title="Docker" width="40px" style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img align="left" alt="AWS" title="AWS" width="40px" style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-  <img align="left" alt="Terraform" title="Terraform" width="40px" style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
-  <img align="left" alt="Bash" title="Bash" width="40px" style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-</p>
-<br><br><br>
+---
 
-<p><strong>Data & Web Technologies:</strong></p>
-<p>
-  <img align="left" alt="Pandas" title="Pandas" width="35px" style="padding-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-  <img align="left" alt="Git" title="Git" width="35px" style="padding-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="left" alt="HTML5" title="HTML5" width="35px" style="padding-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="left" alt="JavaScript" title="JavaScript" width="35px" style="padding-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-</p>
-<br><br>
+### 🚀 RESTful API with FastAPI
+> FastAPI · PostgreSQL · SQLAlchemy · Docker · JWT
 
-<hr>
+Production-style REST API implementing full authentication flow, resource CRUD, and database migrations. Containerized with Docker Compose for local parity with production environments.
 
-<h2>Projects & Concepts</h2>
+- JWT-based auth with protected routes and token refresh
+- Alembic migrations for schema versioning
+- Dockerized with environment-separated configs
 
-<h3>Python Automation & SEO</h3>
-<ul>
-  <li><strong>SEO Automation:</strong> Creation of recurring scripts for technical SEO audits, URL redirects analysis, and sitemap validation.</li>
-  <li><strong>Data Extraction:</strong> Automated web scraping and reporting pipelines using <strong>Python</strong> and <strong>Pandas</strong>.</li>
-</ul>
+---
 
-<h3>Software Engineering & DevOps</h3>
-<ul>
-  <li><strong>API Development:</strong> Building RESTful APIs with <strong>FastAPI/Flask</strong> and implementing JWT authentication.</li>
-  <li><strong>Infrastructure as Code:</strong> Modeling production-ready infrastructure using <strong>Terraform</strong> and <strong>AWS</strong> resources.</li>
-  <li><strong>CI/CD Pipelines:</strong> Automating testing, linting, and deployment workflows using GitHub Actions.</li>
-</ul>
+### ☁️ AWS Infrastructure with Terraform
+> Terraform · AWS (EC2, RDS, VPC, IAM, S3)
 
-<hr>
+Infrastructure as Code project modeling a production-grade AWS environment: VPC with public/private subnets, EC2 instances behind a load balancer, RDS PostgreSQL, and S3 static assets.
 
-<h3>Contact</h3>
-<p>
-  <a href="https://www.linkedin.com/in/fabricio-barauna93/" target="_blank"><strong>LinkedIn: Fabricio Baraúna</strong></a><br>
-  <a href="http://lattes.cnpq.br/3020494210907887" target="_blank"><strong>Lattes CV</strong></a>
-</p>
+- Modular Terraform layout (networking, compute, database, storage)
+- Remote state management with S3 backend and DynamoDB locking
+- IAM least-privilege policies per resource
+
+---
+
+### ⚙️ CI/CD Pipeline with GitHub Actions
+> GitHub Actions · Docker · Python · Pytest
+
+Automated workflow for a Python API: lint (Ruff/Flake8) → unit tests (Pytest) → Docker image build → push to registry. Runs on every pull request, blocks merges on failure.
+
+---
+
+## Current Learning Path
+
+```
+Q2 2025  ──▶  Kubernetes fundamentals (CKA prep)
+              Celery + RabbitMQ for async task queues
+Q3 2025  ──▶  Prometheus + Grafana observability stack
+              Advanced Terraform (modules, workspaces)
+Q4 2025  ──▶  System Design patterns (distributed systems)
+              AWS Solutions Architect – Associate (SAA-C03)
+```
+
+---
+
+
+
+---
+
+## Professional Background
+
+**5+ years** as Technical SEO Specialist in large-scale e-commerce — managing crawl budgets, structured data, Core Web Vitals, log file analysis, and automation of SEO reporting pipelines. This background instilled strong systems thinking: understanding how components interact, where bottlenecks emerge, and how to instrument and monitor complex systems at scale.
+
+Now applying that mindset to backend engineering and infrastructure.
+
+---
+
+<div align="center">
+
+📫 **Open to backend/DevOps roles, freelance projects, and collaboration**
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabricio-barauna93/)
+
+</div>
