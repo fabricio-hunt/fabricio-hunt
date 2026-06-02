@@ -1,12 +1,12 @@
 <div align="center">
 
-# Fabricio Baraúna
+# Fabrício Baraúna
 
-**Backend Engineer · DevOps Practitioner · Technical SEO Specialist**
+**Platform & Data Engineer · DevOps · IaC · FinOps**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-fabricio--barauna93-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabricio-barauna93/)
 [![Lattes](https://img.shields.io/badge/Lattes-CV-005A8E?style=flat-square)](http://lattes.cnpq.br/3020494210907887)
-[![Location](https://img.shields.io/badge/Location-Brazil-009C3B?style=flat-square&logo=googlemaps&logoColor=white)]()
+[![Location](https://img.shields.io/badge/Manaus-Brazil-009C3B?style=flat-square&logo=googlemaps&logoColor=white)]()
 
 </div>
 
@@ -14,122 +14,134 @@
 
 ## About
 
-Software Engineering student (Information Systems background) with **5+ years** building and operating large-scale e-commerce platforms. I combine deep Technical SEO expertise with a growing engineering practice focused on **Python backend development**, **containerized infrastructure**, and **DevOps automation**.
+Systems Analyst with **5+ years** delivering automation and data engineering in production e-commerce environments. I build scalable, reliable platform systems that connect technical operations to measurable business outcomes.
 
-Currently channeling hands-on SEO systems thinking into building observable, scalable backend services — from API design through deployment pipelines to cloud infrastructure as code.
+Currently specializing in **Databricks + Azure + Terraform** as my core stack, combining IaC-driven platform engineering with a FinOps perspective shaped by an MBA in Financial Management.
 
-> *I don't just write code — I engineer systems that are testable, reproducible, and production-ready.*
+> *I engineer platforms — not just pipelines. Observable, governed, and built to scale.*
+
+**Key results delivered at Bemol (e-commerce, 80k+ SKUs):**
+- +R$81M in organic revenue (+53.9%)
+- −78% in critical production errors
+- −70% in operational analysis time via Python/PySpark automation
 
 ---
 
-## Core Competencies
+## Core Stack
 
-| Domain | Skills |
+| Domain | Technologies |
 |---|---|
-| **Backend Engineering** | Python · FastAPI · Flask · SQLAlchemy · RESTful APIs · JWT Auth |
-| **DevOps & Infrastructure** | Docker · Docker Compose · GitHub Actions · CI/CD · Linux · Bash |
-| **Cloud & IaC** | AWS (EC2, S3, RDS, IAM) · Terraform · Infrastructure as Code |
-| **Data & Automation** | Pandas · Web Scraping · ETL Pipelines · Process Automation |
-| **Databases** | PostgreSQL · Query optimization · ORM patterns |
-| **Observability** *(in progress)* | Prometheus · Grafana · Structured Logging |
-| **Orchestration** *(in progress)* | Kubernetes · Helm · Celery · RabbitMQ · Redis |
+| **Data Platform** | Databricks · PySpark · Delta Lake · Unity Catalog · Delta Live Tables |
+| **Cloud & IaC** | Azure · Terraform · Databricks Asset Bundles (DABs) · AWS |
+| **CI/CD & DevOps** | GitHub Actions · Azure DevOps · Docker · Docker Compose |
+| **Backend & Automation** | Python · FastAPI · Streamlit · REST APIs · VTEX API |
+| **Databases** | PostgreSQL · MongoDB · Redis · Delta Lake |
+| **Observability** | Prometheus · Grafana · Structured Logging · GA4 |
+| **FinOps** | Cost Optimization · DBU Management · FinOps Foundation (in progress) |
 
 ---
 
 ## Technology Stack
 
-### Backend & Infrastructure
 <p>
   <img alt="Python" title="Python" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
-  <img alt="FastAPI" title="FastAPI" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />&nbsp;&nbsp;
-  <img alt="PostgreSQL" title="PostgreSQL" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />&nbsp;&nbsp;
+  <img alt="Databricks" title="Databricks" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" />&nbsp;&nbsp;
+  <img alt="Azure" title="Azure" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />&nbsp;&nbsp;
+  <img alt="Terraform" title="Terraform" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />&nbsp;&nbsp;
   <img alt="Docker" title="Docker" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />&nbsp;&nbsp;
   <img alt="Linux" title="Linux" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />&nbsp;&nbsp;
-  <img alt="Bash" title="Bash" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />&nbsp;&nbsp;
-  <img alt="AWS" title="AWS" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />&nbsp;&nbsp;
-  <img alt="Terraform" title="Terraform" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
-</p>
-
-### Data & Tooling
-<p>
-  <img alt="Pandas" title="Pandas" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />&nbsp;&nbsp;
-  <img alt="Git" title="Git" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />&nbsp;&nbsp;
-  <img alt="HTML5" title="HTML5" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />&nbsp;&nbsp;
-  <img alt="JavaScript" title="JavaScript" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img alt="PostgreSQL" title="PostgreSQL" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />&nbsp;&nbsp;
+  <img alt="AWS" title="AWS" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 </p>
 
 ---
 
 ## Featured Projects
 
-### 🔧 SEO Automation Pipeline
-> Python · Pandas · Requests · Cron
+### 🏗️ `databricks-platform-terraform` *(in progress)*
+> Terraform · Azure Databricks · Unity Catalog · DABs
 
-Recurring audit system that crawls large e-commerce sitemaps, validates redirect chains, detects broken URLs, and outputs structured CSV/JSON reports. Reduced manual audit time by eliminating repetitive checklist work.
+Infrastructure as Code project for provisioning a full Databricks platform on Azure via code — the rarest and most valued gap in the market.
 
-- Automated sitemap validation and redirect-chain analysis
-- Modular pipeline design — each stage is independently testable
-- Scheduled execution via cron with structured log output
-
----
-
-### 🚀 RESTful API with FastAPI
-> FastAPI · PostgreSQL · SQLAlchemy · Docker · JWT
-
-Production-style REST API implementing full authentication flow, resource CRUD, and database migrations. Containerized with Docker Compose for local parity with production environments.
-
-- JWT-based auth with protected routes and token refresh
-- Alembic migrations for schema versioning
-- Dockerized with environment-separated configs
+- Modular Terraform layout: Unity Catalog, Schemas, Grants, Clusters, SQL Warehouses
+- Deploy pipeline with Databricks Asset Bundles (DABs) — modern standard
+- Remote state with Azure Blob Storage; dev/stg/prod environments
 
 ---
 
-### ☁️ AWS Infrastructure with Terraform
-> Terraform · AWS (EC2, RDS, VPC, IAM, S3)
+### 🔁 `data-platform-end-to-end` *(in progress)*
+> Azure DevOps · Databricks · dbt · Delta Lake · Terraform
 
-Infrastructure as Code project modeling a production-grade AWS environment: VPC with public/private subnets, EC2 instances behind a load balancer, RDS PostgreSQL, and S3 static assets.
+Anchor project: a production-grade data platform built end-to-end, from IaC provisioning to CI/CD-driven job deployment.
 
-- Modular Terraform layout (networking, compute, database, storage)
-- Remote state management with S3 backend and DynamoDB locking
-- IAM least-privilege policies per resource
-
----
-
-### ⚙️ CI/CD Pipeline with GitHub Actions
-> GitHub Actions · Docker · Python · Pytest
-
-Automated workflow for a Python API: lint (Ruff/Flake8) → unit tests (Pytest) → Docker image build → push to registry. Runs on every pull request, blocks merges on failure.
+- Terraform provisions Databricks workspace + Unity Catalog
+- Azure DevOps pipeline with lint → SAST → DABs deploy → approval gates
+- dbt + PySpark transformations on Delta Lake; monitoring + cost alerts
 
 ---
 
-## Current Learning Path
+### 📊 `finops-databricks-dashboard` *(planned Q4 2025)*
+> Python · Databricks · Streamlit · Azure Cost Management
+
+FinOps observability dashboard for Databricks: cost per job, per cluster, per environment — with automated alerts. Applies MBA Financial Management + platform engineering.
+
+---
+
+### ⚙️ Production Automation Pipeline — Bemol (5 years)
+> Python · Databricks · PySpark · Delta Lake · VTEX API · GitHub Actions
+
+Large-scale automation system processing 80k+ SKUs via VTEX API. Thread-safe concurrency control, rate limiting, dual authentication with fallback, transactional Delta Lake commits.
+
+- −70% in operational analysis time
+- −78% in critical production errors
+- CI/CD with lint, tests, SAST, secret scan — no hardcoded credentials
+
+---
+
+## Certification Roadmap
 
 ```
-Q2 2025  ──▶  Kubernetes fundamentals (CKA prep)
-              Celery + RabbitMQ for async task queues
-Q3 2025  ──▶  Prometheus + Grafana observability stack
-              Advanced Terraform (modules, workspaces)
-Q4 2025  ──▶  System Design patterns (distributed systems)
-              AWS Solutions Architect – Associate (SAA-C03)
+✅ DevOps Essentials for Data Engineering
+✅ Microsoft Power BI for Business Intelligence
+
+Q2 2026  ──▶  AZ-900 Azure Fundamentals
+              Databricks Data Engineer Associate
+              Microsoft Azure Databricks Data Engineer Associate
+
+Q3 2026  ──▶  HashiCorp Terraform Associate
+              Databricks Data Engineer Professional (prep)
+
+Q4 2026  ──▶  FinOps Practitioner (FinOps Foundation)
+              Databricks Data Engineer Professional
+
+2027     ──▶  AZ-104 Azure Administrator
+              CKA Kubernetes Administrator
 ```
 
 ---
 
+## Academic Background
 
+| Degree | Institution | Period |
+|---|---|---|
+| Postgrad – DevOps & Cloud Platform Engineering with AI | PUC Minas | 2026–2027 |
+| MBA – Financial Management | Faculdade Focus | 2024 |
+| Postgrad – Software Engineering | FAVENI | 2022–2023 |
+| BSc – Information Systems | ESAB | 2017–2021 |
 
 ---
 
 ## Professional Background
 
-**5+ years** as Technical SEO Specialist in large-scale e-commerce — managing crawl budgets, structured data, Core Web Vitals, log file analysis, and automation of SEO reporting pipelines. This background instilled strong systems thinking: understanding how components interact, where bottlenecks emerge, and how to instrument and monitor complex systems at scale.
+**5+ years at Bemol** (one of Brazil's largest e-commerce retailers) engineering automation systems at scale — PySpark pipelines, API integrations, CI/CD tooling, and data platform governance. This built a systems-thinking mindset: understanding where bottlenecks emerge, how to instrument production environments, and how to translate technical reliability into business outcomes.
 
-Now applying that mindset to backend engineering and infrastructure.
+Now deepening specialization in **Databricks + Azure + IaC**, with a long-term trajectory toward Engineering Manager, FinOps Lead, or Technical Product Management in data and infrastructure products.
 
 ---
 
 <div align="center">
 
-📫 **Open to backend/DevOps roles, freelance projects, and collaboration**
+📫 **Open to Platform Engineering, Data Engineering, and DevOps roles**
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabricio-barauna93/)
 
