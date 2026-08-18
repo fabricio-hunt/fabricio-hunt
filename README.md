@@ -1,6 +1,6 @@
 <div align="center">
 
-# Fabrício Baraúna
+# Fabrício M. Baraúna
 
 **Platform & Data Engineer · DevOps · IaC · FinOps**
 
