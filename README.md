@@ -16,7 +16,7 @@
 
 Systems Analyst with **5+ years** delivering automation and data engineering in production e-commerce environments. I build scalable, reliable platform systems that connect technical operations to measurable business outcomes.
 
-Currently specializing in **Databricks + Azure + Terraform** as my core stack, combining IaC-driven platform engineering with a FinOps perspective shaped by an MBA in Financial Management.
+Currently specializing in **Databricks + Azure + Terraform** as my core stack, combining IaC-driven platform engineering with a FinOps perspective shaped by an MBA in Financial Management. Expanding this cycle into **Azure administration, security and solutions architecture** (AZ-104 → AZ-500 → AZ-305) to grow from data platform engineering into full **Cloud Platform Engineering**.
 
 > *I engineer platforms — not just pipelines. Observable, governed, and built to scale.*
 
@@ -32,12 +32,14 @@ Currently specializing in **Databricks + Azure + Terraform** as my core stack, c
 | Domain | Technologies |
 |---|---|
 | **Data Platform** | Databricks · PySpark · Delta Lake · Unity Catalog · Delta Live Tables |
-| **Cloud & IaC** | Azure · Terraform · Databricks Asset Bundles (DABs) · AWS |
-| **CI/CD & DevOps** | GitHub Actions · Azure DevOps · Docker · Docker Compose |
-| **Backend & Automation** | Python · FastAPI · Streamlit · REST APIs · VTEX API |
+| **Cloud & IaC** | Azure · Terraform · Databricks Asset Bundles (DABs) · Bicep *(in progress)* · AWS |
+| **Security & Identity** | Entra ID (Azure AD) · RBAC/PIM · Azure Firewall · Microsoft Defender for Cloud *(in progress)* |
+| **Containers & Orchestration** | Docker · Docker Compose · Kubernetes/AKS *(in progress)* |
+| **CI/CD & DevOps** | GitHub Actions · Azure DevOps · GitOps principles |
+| **Backend & Automation** | Python · FastAPI · Streamlit · REST APIs · VTEX API · PowerShell *(in progress)* |
 | **Databases** | PostgreSQL · MongoDB · Redis · Delta Lake |
-| **Observability** | Prometheus · Grafana · Structured Logging · GA4 |
-| **FinOps** | Cost Optimization · DBU Management · FinOps Foundation (in progress) |
+| **Observability** | Prometheus · Grafana · Azure Monitor / KQL *(in progress)* · Structured Logging · GA4 |
+| **FinOps** | Cost Optimization · DBU Management · Azure Cost Management *(in progress)* · FinOps Foundation Practitioner *(in progress)* |
 
 ---
 
@@ -48,6 +50,7 @@ Currently specializing in **Databricks + Azure + Terraform** as my core stack, c
   <img alt="Databricks" title="Databricks" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" />&nbsp;&nbsp;
   <img alt="Azure" title="Azure" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />&nbsp;&nbsp;
   <img alt="Terraform" title="Terraform" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />&nbsp;&nbsp;
+  <img alt="Kubernetes" title="Kubernetes" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />&nbsp;&nbsp;
   <img alt="Docker" title="Docker" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />&nbsp;&nbsp;
   <img alt="Linux" title="Linux" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />&nbsp;&nbsp;
   <img alt="PostgreSQL" title="PostgreSQL" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />&nbsp;&nbsp;
@@ -104,18 +107,24 @@ Large-scale automation system processing 80k+ SKUs via VTEX API. Thread-safe con
 ✅ DevOps Essentials for Data Engineering
 ✅ Microsoft Power BI for Business Intelligence
 
-Q2 2026  ──▶  AZ-900 Azure Fundamentals
-              Databricks Data Engineer Associate
-              Microsoft Azure Databricks Data Engineer Associate
+Em andamento        ──▶  AZ-900 Azure Fundamentals
+                          Databricks Certified Data Engineer Associate
+                          Databricks Certified Data Engineer Associate (Azure)
 
-Q3 2026  ──▶  HashiCorp Terraform Associate
-              Databricks Data Engineer Professional (prep)
+Próximos 6 meses    ──▶  AZ-104 Azure Administrator
+                          AZ-500 Azure Security Engineer
+                          HashiCorp Terraform Associate
 
-Q4 2026  ──▶  FinOps Practitioner (FinOps Foundation)
-              Databricks Data Engineer Professional
+6–12 meses          ──▶  AZ-305 Azure Solutions Architect Expert
+                          FinOps Practitioner (FinOps Foundation)
+                          Databricks Certified Data Engineer Professional
 
-2027     ──▶  AZ-104 Azure Administrator
-              CKA Kubernetes Administrator
+12–18 meses         ──▶  AZ-400 Azure DevOps Engineer Expert
+                          CKA Certified Kubernetes Administrator
+                          SC-300 Identity and Access Administrator
+
+Contínuo (portfólio) ──▶ Bicep · Azure Monitor/KQL · Microsoft Defender for Cloud
+                          Azure Arc · Cloud Adoption Framework (CAF) · PowerShell
 ```
 
 ---
@@ -135,13 +144,13 @@ Q4 2026  ──▶  FinOps Practitioner (FinOps Foundation)
 
 **5+ years at Bemol** (one of Brazil's largest e-commerce retailers) engineering automation systems at scale — PySpark pipelines, API integrations, CI/CD tooling, and data platform governance. This built a systems-thinking mindset: understanding where bottlenecks emerge, how to instrument production environments, and how to translate technical reliability into business outcomes.
 
-Now deepening specialization in **Databricks + Azure + IaC**, with a long-term trajectory toward Engineering Manager, FinOps Lead, or Technical Product Management in data and infrastructure products.
+Now deepening specialization in **Databricks + Azure + IaC**, while expanding into **cloud security, architecture and platform governance** (AZ-500 / AZ-305) — with a long-term trajectory toward **Platform Engineering Lead / Tech Lead**, FinOps Lead, or Technical Product Management in data and infrastructure products.
 
 ---
 
 <div align="center">
 
-📫 **Open to Platform Engineering, Data Engineering, and DevOps roles**
+📫 **Open to Platform Engineering, Cloud/DevOps, and Data Engineering roles**
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabricio-barauna93/)
 
